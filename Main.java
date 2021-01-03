@@ -15,6 +15,7 @@ public class Main
         System.out.println("Hello world Hola mundo");
 
         int a = 10;
+		int b = 5;
 
     }
 }
